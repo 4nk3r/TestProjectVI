@@ -9,13 +9,17 @@ Matplotlib. I have decided to use this one only because it offers a possibility 
 Installation/Run
 Following components must be installed locally:
 
+
 Python 3 - https://www.python.org/downloads/
 Matplotlib - https://matplotlib.org/stable/users/getting_started/
 
 To run the project locally, enter the following in the command line / bash:
 ```
 $ git clone https://github.com/4nk3r/TestProjectVI.git
-$ cd TestProjectVI.git
-$ npm install
-$ npm run start
+$ cd TestProjectVI
+$ cd TestProject_VI
+$ start main.py
 ```
+Alternative: 
+
+Download as ZIP file, dearchive it to the not Write-Protected folder and start the file main.py
