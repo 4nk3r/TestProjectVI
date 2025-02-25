@@ -9,8 +9,8 @@ Matplotlib. I have decided to use this one only because it offers a possibility 
 Installation/Run
 Following components must be installed locally:
 
-Python 3
-Matplotlib 
+Python 3 - https://www.python.org/downloads/
+Matplotlib - https://matplotlib.org/stable/users/getting_started/
 
 To run the project locally, enter the following in the command line / bash:
 ```
