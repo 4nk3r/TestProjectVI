@@ -14,8 +14,8 @@ Matplotlib - https://matplotlib.org/stable/users/getting_started/
 
 To run the project locally, enter the following in the command line / bash:
 ```
-$ git clone <https://github.com/4nk3r/TestProjectVI.git>
-$ cd <TestProjectVI.git>
+$ git clone https://github.com/4nk3r/TestProjectVI.git
+$ cd TestProjectVI.git
 $ npm install
 $ npm run start
 ```
